@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "marceline",
+      "name": "Marceline Abadeer",
+      "bio": "1000 year old vampire queen, musician",
+      "lastLogin": "2025-03-14T09:30:00"
+    },
+    {
+      "id": 2,
+      "username": "finn",
+      "name": "Finn 'the Human' Mertens",
+      "bio": "Adventurer and hero, last human, defender of good",
+      "lastLogin": "2025-03-14T10:00:00"
+    },
+    {
+      "id": 3,
+      "username": "pb",
+      "name": "Bonnibel Bubblegum",
+      "bio": "Scientist, bearer of candy power, ruler of the candy kingdom",
+      "lastLogin": "2025-03-14T11:00:00"
+    },
+    {
+      "id": 4,
+      "username": "jake",
+      "name": "Jake the Dog",
+      "bio": "Former criminal, now magical dog adventurer, and father",
+      "lastLogin": "2025-03-14T08:00:00"
+    }
+  ]
+}
+
+

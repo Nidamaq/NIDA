@@ -1,0 +1,40 @@
+{
+  "posts": [
+  {
+    "thread": 1,
+    "text": "Has anyone checked on the lich recently?",
+    "user": 4,
+    "timestamp": "2025-03-14T09:10:00"
+  },
+  {
+    "thread": 1,
+    "text": "I'll stop by and see how he's doing tomorrow!",
+    "user": 2,
+    "timestamp": "2025-03-14T09:15:00"
+  },
+  {
+    "thread": 2,
+    "text": "Come party with the candy people tomorrow!",
+    "user": 3,
+    "timestamp": "2025-03-14T10:30:00"
+  },
+  {
+    "thread": 2,
+    "text": "Mathematical!",
+    "user": 2,
+    "timestamp": "2025-03-14T10:45:00"
+  },
+  {
+    "thread": 2,
+    "text": "I'll bring my guitar",
+    "user": 1,
+    "timestamp": "2025-03-14T10:50:00"
+  },
+  {
+    "thread": 3,
+    "text": "I need a new guitar to play the most savory licks in Ooo",
+    "user": 1,
+    "timestamp": "2025-03-14T11:20:00"
+  }
+]
+}
