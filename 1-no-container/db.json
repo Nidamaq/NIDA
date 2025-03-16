@@ -1,0 +1,91 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "marceline",
+      "name": "Marceline Abadeer",
+      "bio": "1000 year old vampire queen, musician",
+      "lastLogin": "2025-03-14T09:30:00"
+    },
+    {
+      "id": 2,
+      "username": "finn",
+      "name": "Finn 'the Human' Mertens",
+      "bio": "Adventurer and hero, last human, defender of good",
+      "lastLogin": "2025-03-14T10:00:00"
+    },
+    {
+      "id": 3,
+      "username": "pb",
+      "name": "Bonnibel Bubblegum",
+      "bio": "Scientist, bearer of candy power, ruler of the candy kingdom",
+      "lastLogin": "2025-03-14T11:00:00"
+    },
+    {
+      "id": 4,
+      "username": "jake",
+      "name": "Jake the Dog",
+      "bio": "Former criminal, now magical dog adventurer, and father",
+      "lastLogin": "2025-03-14T08:00:00"
+    }
+  ],
+
+  "threads": [
+    {
+      "id": 1,
+      "title": "What's up with the Lich?",
+      "createdBy": 4
+    },
+    {
+      "id": 2,
+      "title": "Party at the candy kingdom tomorrow",
+      "createdBy": 3
+    },
+    {
+      "id": 3,
+      "title": "In search of a new guitar",
+      "createdBy": 1
+    }
+  ],
+
+  "posts": [
+    {
+      "thread": 1,
+      "text": "Has anyone checked on the lich recently?",
+      "user": 4,
+      "timestamp": "2025-03-14T09:10:00"
+    },
+    {
+      "thread": 1,
+      "text": "I'll stop by and see how he's doing tomorrow!",
+      "user": 2,
+      "timestamp": "2025-03-14T09:15:00"
+    },
+    {
+      "thread": 2,
+      "text": "Come party with the candy people tomorrow!",
+      "user": 3,
+      "timestamp": "2025-03-14T10:30:00"
+    },
+    {
+      "thread": 2,
+      "text": "Mathematical!",
+      "user": 2,
+      "timestamp": "2025-03-14T10:45:00"
+    },
+    {
+      "thread": 2,
+      "text": "I'll bring my guitar",
+      "user": 1,
+      "timestamp": "2025-03-14T10:50:00"
+    },
+    {
+      "thread": 3,
+      "text": "I need a new guitar to play the most savory licks in Ooo",
+      "user": 1,
+      "timestamp": "2025-03-14T11:20:00"
+    }
+  ]
+}
+
+
